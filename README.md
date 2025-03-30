@@ -6,11 +6,10 @@ The Blog System App basically is an app that fetches blogs about various differe
 
 In the terminal, we can run:
 
-### `git clone`
+### `git clone https://github.com/Priyanka62002/Blog_System.git`
 `
 
 ### `cd Blog_System `
-
 
 
 ### `npm install`
